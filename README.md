@@ -1,3 +1,7 @@
+Микросервисы и Автоматизации Бизнес Процессов с Kogito в Istio.
+
+https://katacoda.com/kuber-ru/courses/kogito
+
 <p align="center"><img width=55% height=55% src="docsimg/jbpm_logo_450px.png"></p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
